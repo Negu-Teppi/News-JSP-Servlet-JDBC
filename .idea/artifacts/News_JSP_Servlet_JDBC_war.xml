@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="News-JSP-Servlet-JDBC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>News-JSP-Servlet-JDBC</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="News-JSP-Servlet-JDBC-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="News-JSP-Servlet-JDBC:war exploded" />
+    </root>
+  </artifact>
+</component>
